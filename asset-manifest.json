@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Static-Newspaper-Website-using-React/static/css/main.bb0c03db.css",
+    "main.js": "/Static-Newspaper-Website-using-React/static/js/main.cb5c636a.js",
+    "static/media/pic7.png": "/Static-Newspaper-Website-using-React/static/media/pic7.0e6e94705a066671976b.png",
+    "static/media/pic4.png": "/Static-Newspaper-Website-using-React/static/media/pic4.3bc5b02775923a930c13.png",
+    "static/media/pic6.png": "/Static-Newspaper-Website-using-React/static/media/pic6.c5df089c22950f6a4217.png",
+    "static/media/pic1.png": "/Static-Newspaper-Website-using-React/static/media/pic1.11cb8ad1a04ccb81c61b.png",
+    "static/media/pic2.png": "/Static-Newspaper-Website-using-React/static/media/pic2.78041701e5c5361c1651.png",
+    "static/media/pic5.png": "/Static-Newspaper-Website-using-React/static/media/pic5.fdb722d501cbbe6c7c0f.png",
+    "static/media/pic3.png": "/Static-Newspaper-Website-using-React/static/media/pic3.359f7f072ce464747450.png",
+    "static/media/logo.png": "/Static-Newspaper-Website-using-React/static/media/logo.8c201f91bbf8cf2b49a9.png",
+    "index.html": "/Static-Newspaper-Website-using-React/index.html",
+    "main.bb0c03db.css.map": "/Static-Newspaper-Website-using-React/static/css/main.bb0c03db.css.map",
+    "main.cb5c636a.js.map": "/Static-Newspaper-Website-using-React/static/js/main.cb5c636a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb0c03db.css",
+    "static/js/main.cb5c636a.js"
+  ]
+}
